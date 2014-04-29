@@ -1,0 +1,1 @@
+loadevents.exe /b "c:\Program Files (x86)\Automsoft\RAPID\Database\rapid.boot" /c /i testData.csv
